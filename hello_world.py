@@ -15,3 +15,6 @@ if name != "Walt":
     self.name = name
     self.legs = legs
     slef.isAnimal = True
+    
+   def sound(self):
+    print("This animal has a sound!")
