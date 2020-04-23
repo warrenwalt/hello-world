@@ -5,3 +5,6 @@ for i in range(6,11):
 
   
 name = "Beautiful People"
+
+if name != "Walt":
+  print("wrong name")
