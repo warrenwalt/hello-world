@@ -8,3 +8,10 @@ name = "Beautiful People"
 
 if name != "Walt":
   print("wrong name")
+
+  
+ class Animal:
+  def __init__(self, name, legs):
+    self.name = name
+    self.legs = legs
+    slef.isAnimal = True
