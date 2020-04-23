@@ -23,4 +23,4 @@ if name != "Walt":
     print("This animal has a sound!")
 
    def speed(self):
-     print('This animal runs at speeds of: 300km/hr')
+     print("This animal runs at speeds of: 300km/hr")
